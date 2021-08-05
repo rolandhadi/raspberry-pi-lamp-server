@@ -1,5 +1,5 @@
 # raspberry-pi-lamp-server
-Infrastructure As Code for configuring raspberry pi into a LAMP server via WIFI for managing and provisioning of infrastructure through code instead of through manual processes.
+Infrastructure written as a code for configuring raspberry pi into a LAMP server via WIFI for managing and provisioning of infrastructure through code instead of through manual processes.
 
 # usage
 ```
